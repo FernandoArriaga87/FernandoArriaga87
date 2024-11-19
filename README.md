@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wiser**
 
-- 🌱 I’m currently learning **HTML / CSS / JS / C#**
+- 🌱 I’m currently learning **HTML / CSS / JS / REACT / C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
